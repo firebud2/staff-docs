@@ -22,8 +22,8 @@ A few things to note on how team membership works:
     project. They will also interact directly with managers/supervisors
     of each team.
     - **Manager**, managers are responsible for direct management of
-    various teams within the organization and their work. *Note: generally
-    a senior team members take this role.*
+    various teams within the organization and their work. *Note:
+    Generally senior team members take on this role within their team.*
     - **Supervisor**, assistant management role. This role allows an
     individual to take a lesser-management role whilst maintaining their
     actual dominant role(s). Flexible work-load that is normally helping
