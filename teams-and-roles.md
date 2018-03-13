@@ -51,9 +51,6 @@ A few things to note on how team membership works:
     and various other rules, terms, and conditions within our sub-reddit.
 
 - **Design Team**
-    - **Game Designer**, responsible for working with team(s) to create
-    the design used for various game(s) within TCDX.
-    - **World Designer**, responsible for Minecraft world design.
 
 - **Development Team**
     - **DevOps Developer**, responsible for the development of tools,
@@ -88,8 +85,9 @@ A few things to note on how team membership works:
     to releases.
 
 - **Creative Team**
-    - **Worldsmith**, responsible for the creation of Minecraft world
-    assets.
+    - **Game Designer**, responsible for working with team(s) to create
+    the design used for various game(s) within TCDX.
+    - **World Designer**, responsible for Minecraft world design.
     - **Artist**, responsible for the creation and editing of graphical
     assets.
     - **Composer**, responsible for the composition of musical assets.
