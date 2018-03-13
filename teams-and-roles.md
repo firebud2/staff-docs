@@ -5,6 +5,12 @@ Overview
 --------
 The following is a list of teams and their roles.
 
+A few things to note on how team membership works:
+    - A team member may belong to different teams and roles.
+    - There are no real guidelines for team/role mixing. The constraints
+    on a per-team member basis.
+    - A clarification on
+
 - **Management Team**
     - **Project-Lead**, highest-ranking person(s) in the project
     responsible for making managerial decisions and leading the primary
@@ -15,12 +21,13 @@ The following is a list of teams and their roles.
     manage and work with various teams and professionals involved in the
     project. They will also interact directly with managers/supervisors
     of each team.
-    - **Senior Manager**, a senior level manager.
     - **Manager**, managers are responsible for direct management of
-    various teams within the organization and their work.
-    - **Supervisor**, direct supervisor for individuals with controversial
-    positions such as moderators and administrators. Also aid managers
-    in various day-to-day tasks/duties.
+    various teams within the organization and their work. *Note: generally
+    a senior team members take this role.*
+    - **Supervisor**, assistant management role. This role allows an
+    individual to take a lesser-management role whilst maintaining their
+    actual dominant role(s). Flexible work-load that is normally helping
+    their direct manager in management of the team.
 
 - **Administration Team** TODO
     - **Systems Administrator**
