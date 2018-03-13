@@ -88,10 +88,6 @@ A few things to note on how team membership works:
     - **QA Tester**, responsible for final quality assurance test prior
     to releases.
 
-- **Contributor**, an arbitrary third-party contributor. This is left
-un-specified as there is no *real* limit to the contributions that are
-possible. *NOTE: This is a role, not a team.*
-
 - **Creative Team**
     - **Worldsmith**, responsible for the creation of Minecraft world
     assets.
@@ -111,3 +107,17 @@ possible. *NOTE: This is a role, not a team.*
     across our various services.
     - **Customer Service Representative**, general customer service
     representative.
+
+- **Very Important Person**, a person of importance (such as an ex-staff
+member.
+
+- **Affiliate**, a person or organization officially partnered with TCDX.
+
+- **Contributor**, an arbitrary third-party contributor. This is left
+un-specified as there is no *real* limit to the contributions that are
+possible. *NOTE: This is a role, not a team.*
+
+- **Collaborator**, a contributor from a similar third-party project
+working towards a common goal. *NOTE: A common example would be someone
+who works on a similar project who contributes to this project based off
+their work and experience.*
