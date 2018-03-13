@@ -10,7 +10,7 @@ Members
 -------
 This section contains a mapping of staff members and their teams/roles.
 
-| Name        | Alias   | Contact              | Teams                       | Roles                                                          |
-|-------------|---------|----------------------|-----------------------------|----------------------------------------------------------------|
-| Logan Speck | varrix  | varrix@thecordex.net | Administrative  Development | Project-Lead Game-Design-Lead Systems-Architect Lead-Developer |
-| Max         | firebud | N/A                  | Documentation               | Docs-Editor                                                    |
+| Name        | Alias   | Contact              | Teams                                                           | Roles        |
+|-------------|---------|----------------------|-----------------------------------------------------------------|--------------|
+| Logan Speck | varrix  | varrix@thecordex.net | Administrative, Development, Community, Creative, Documentation | Project Lead |
+| Max         | firebud | N/A                  | Documentation                                                   | Docs. Editor  |
