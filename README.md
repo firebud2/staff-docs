@@ -9,7 +9,7 @@ Metadata
 --------
 **Namespace:** `net.thecordex`
 
-**Version:** `0.4.0`
+**Version:** `0.5.0`
 
 **Maintainer(s):**
 - Logan Speck (`varrix`/`logan@varrix.io`)

@@ -13,8 +13,8 @@ The following is a list of teams and their roles.
     product, which includes game play, visual style, story, audio assets,
     cinematics, and marketing materials. The creative director will
     manage and work with various teams and professionals involved in the
-    project. They will also interact directly with senior supervisors of
-    each team.
+    project. They will also interact directly with managers/supervisors
+    of each team.
     - **Senior Manager**, a senior level manager.
     - **Manager**, managers are responsible for direct management of
     various teams within the organization and their work.
@@ -60,6 +60,12 @@ The following is a list of teams and their roles.
     - **Web Developer**, responsible for the development of our web
     applications.
 
+- **Documentation Team**
+    - **Documentation Editor**, responsible for the editing of our open
+    source documentation.
+    - **Documentation Proofreader**, responsible for the proofreading
+    of our open source documentation.
+
 - **Analytics Team**
     - **Data Analyst**, analyzes and reports on our community and content
     data.
@@ -70,10 +76,11 @@ The following is a list of teams and their roles.
 
 - **Contributor**, an arbitrary third-party contributor. This is left
 un-specified as there is no *real* limit to the contributions that are
-possible.
+possible. *NOTE: This is a role, not a team.*
 
 - **Creative Team**
-    - **Worldsmith** (MC world builder)
+    - **Worldsmith**, responsible for the creation of Minecraft world
+    assets.
     - **Artist**, responsible for the creation and editing of graphical
     assets.
     - **Composer**, responsible for the composition of musical assets.
