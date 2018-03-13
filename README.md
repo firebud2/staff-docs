@@ -9,7 +9,7 @@ Metadata
 --------
 **Namespace:** `net.thecordex`
 
-**Version:** `0.5.0`
+**Version:** `0.5.1`
 
 **Maintainer(s):**
 - Logan Speck (`varrix`/`logan@varrix.io`)
@@ -22,6 +22,12 @@ Versioning
 ---
 This project follows the Semantic Versioning (SemVer) Specification v2.0.0. The specification can be found here:
 http://semver.org/spec/v2.0.0.html
+
+Branches
+--------
+This repository is powered by `git`. The following branches are available:
+- master (stable)
+- develop (bleeding edge)
 
 Documents
 ---------
