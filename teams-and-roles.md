@@ -29,10 +29,17 @@ A few things to note on how team membership works:
     actual dominant role(s). Flexible work-load that is normally helping
     their direct manager in management of the team.
 
-- **Administration Team** TODO
-    - **Systems Administrator**
-    - **Network Administrator**
-    - **Database Administrator**
+- **Administration Team**
+    - **Systems Administrator**, responsible for the architecture and
+    operation of our software stacks.
+    - **Network Administrator**, responsible for maintaining computer
+    infrastructures with emphasis on networking.
+    - **Database Administrator**, responsible for the environmental
+    aspects of a database.
+    - **Minecraft Administrator**, responsible for administrative duties
+    Minecraft server instances.
+    - **Forum Administrator**, responsible for overseeing discussions on
+    the forums.
 
 - **Moderation Team**
     - **Minecraft Moderator**, responsible for the enforcement of our EULA

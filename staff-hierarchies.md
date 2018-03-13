@@ -11,20 +11,17 @@ This document outlines the hierarchies within our staff structure.
 
 ### Hierarchies
 ---------------
-#### Types
+#### Collaborative Teams:
+These are flexible teams where the work allows a team member to not
+be managed by one another.
 
-Collaborative Teams:
+Often times a manager will be involved in each role or for multiple
+roles but generally if it's multiple they all work together very
+closely already.
 
-    These are flexible teams where the work allows a team member to not
-    be managed by one another.
-
-    Often times a manager will be involved in each role or for multiple
-    roles but generally if it's multiple they all work together very
-    closely already.
-
-    This allows a team member to to work collaboratively with the same
-    or another role within their team without being directly managed by
-    a different role when there are per-role managers present.
+This allows a team member to to work collaboratively with the same
+or another role within their team without being directly managed by
+a different role when there are per-role managers present.
 
 All hierarchies aside from internal work-flows should go as follows:
 
@@ -41,20 +38,36 @@ although the hierarchy goes as follows:
 The administrative team is a collaborative hierarchy with management
 embedded for each major administrative role to lead.
 
+1. **Systems Administration Manager**, systems administration team
+hierarch.
+    1. **Systems Administrator**, subordinate of *Systems Administration
+        Manager*.
+2. **Network Administration Manager**, network administration team
+hierarch.
+    1. **Network Administrator**, subordinate of *Network Administration
+        Manager*.
+3. **Database Administration Manager**, network administration team
+hierarch.
+    1. **Database Administrator**, subordinate of *Database
+    Administration Manager*.
+4. **Minecraft Administration Manager**, server administration team
+hierarch.
+    1. **Minecraft Administrator**, subordinate of *Minecraft
+    Administration Manager*.
+5. **Forums Administration Manager**, forums administration team
+hierarch.
+    1. **Forums Administrator**, subordinate of *Forums
+    Administration Manager*.
+
 #### Moderation
 The moderation team is a collaborative hierarchy with management
 embedded for each major moderation role to lead.
 
-1. **Moderation Team Manager**, moderation team hierarch.
-    1. **Forum Moderation Manager**, forums moderation team hierarch.
-    Subordinate of *Moderation Team Manager*.
-        1. **Forum Moderator**, subordinate of *Forum Moderation Manager*.
-    2. **Minecraft Moderation Manager**, Minecraft server moderation
-    team hierarch. Subordinate of *Moderation Team Manager*.
-        1. **Minecraft Moderator**, subordinate of *Minecraft Moderation
+1. **Forum Moderation Manager**, forums moderation team hierarch.
+    1. **Forum Moderator**, subordinate of *Forum Moderation Manager*.
+2. **Minecraft Moderation Manager**, Minecraft moderation team hierarch.
+    1. **Minecraft Moderator**, subordinate of *Minecraft Moderation
         Manager*.
-    3. **Reddit Moderation Manager**, sub-reddit moderation team hierarch.
-    Subordinate of *Moderation Team Manager*.
-        1. **Reddit Moderator**, subordinate of *Reddit Moderation
+3. **Reddit Moderation Manager**, Reddit team hierarch.
+    1. **Reddit Moderator**, subordinate of *Reddit Moderation
         Manager*.
-
