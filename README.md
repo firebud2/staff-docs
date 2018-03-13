@@ -1,11 +1,23 @@
-namespace: `net.thecordex`
+staff-docs
+==========
 
-version: `0.1.0`
+About
+-----
+Documentation related to the TCDX staff teams, hierarchies, and systems.
+
+Metadata
+--------
+Namespace: `net.thecordex`
+
+Version: `0.2.0`
+
+Maintainer(s):
+- Logan Speck (`varrix`/`logan@varrix.io`)
 
 **NOTE:** This was a quick draft created as a base. This is not **final**.
 
-roles
------
+teams and roles
+---------------
 
 - administrator
     - system-administrator
