@@ -50,8 +50,6 @@ A few things to note on how team membership works:
     - **Reddit Moderator** responsible for the enforcement of our EULA
     and various other rules, terms, and conditions within our sub-reddit.
 
-- **Design Team**
-
 - **Development Team**
     - **DevOps Developer**, responsible for the development of tools,
     libraries, and systems/services that our developers make use of.
@@ -97,7 +95,7 @@ A few things to note on how team membership works:
 - **Community Team**
     - **Public Relations Representative**, responsible for the
     orchestration and management of third-party relations and affiliations.
-    - **Marketer**, responsible for the marketing and advertising of
+    - **Marketing Representative**, responsible for the marketing and advertising of
     TCDX branding and products.
     - **Events Organizer**, responsible for the organization,
     maintenance, and management of community events both in-game and
@@ -107,6 +105,11 @@ A few things to note on how team membership works:
 
 - **Very Important Person**, a person of importance (such as an ex-staff
 member.
+
+- **Premium Member**, someone who has purchases or subscribed for a
+premium membership on our services.
+
+- **Sponsor**, a person or organization who has sponsored the project.
 
 - **Affiliate**, a person or organization officially partnered with TCDX.
 
