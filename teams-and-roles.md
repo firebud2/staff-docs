@@ -30,8 +30,8 @@ A few things to note on how team membership works:
     their direct manager in management of the team.
 
 - **Administration Team**
-    - **Systems Administrator**, responsible for the architecture and
-    operation of our software stacks.
+    - **Systems Administrator**, responsible for systems architecture
+    and operation project-wide.
     - **Network Administrator**, responsible for maintaining computer
     infrastructures with emphasis on networking.
     - **Database Administrator**, responsible for the environmental
@@ -51,10 +51,9 @@ A few things to note on how team membership works:
     and various other rules, terms, and conditions within our sub-reddit.
 
 - **Design Team**
-    - **Creative Lead**, responsible for leading teams in communication,
-    interactive, and game design.
     - **Game Designer**, responsible for working with team(s) to create
     the design used for various game(s) within TCDX.
+    - **World Designer**, responsible for Minecraft world design.
 
 - **Development Team**
     - **DevOps Developer**, responsible for the development of tools,
@@ -67,8 +66,6 @@ A few things to note on how team membership works:
     tools and services used by projects.
     - **Systems Developer**, responsible for the development of systems
     and platforms used by applications.
-    - **Systems Architect**, responsible for the architecture of our
-    various system stack(s).
     - **Server Developer**, responsible for the development of backend
     servers utilized by various applications.
     - **Web Developer**, responsible for the development of our web
@@ -79,6 +76,8 @@ A few things to note on how team membership works:
     source documentation.
     - **Documentation Proofreader**, responsible for the proofreading
     of our open source documentation.
+    - **Documentation Translator**, responsible for the translation of
+    documentation.
 
 - **Analytics Team**
     - **Data Analyst**, analyzes and reports on our community and content
