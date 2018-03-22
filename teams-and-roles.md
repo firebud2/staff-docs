@@ -1,15 +1,12 @@
-teams and roles
-===============
+# teams and roles
 
-Overview
---------
+## Overview
 The following is a list of teams and their roles.
 
 A few things to note on how team membership works:
     - A team member may belong to different teams and roles.
     - There are no real guidelines for team/role mixing. The constraints
     on a per-team member basis.
-    - A clarification on
 
 #### **Management Team**
 - **Project-Lead**, highest-ranking person(s) in the project
@@ -72,7 +69,7 @@ A few things to note on how team membership works:
 - **Documentation Proofreader**, responsible for the proofreading
     of our open source documentation.
 - **Documentation Translator**, responsible for the translation of
-    documentation.
+    our open source documentation.
 
 #### **Analytics Team**
 - **Data Analyst**, analyzes and reports on our community and content
@@ -83,9 +80,11 @@ A few things to note on how team membership works:
     to releases.
 
 #### **Creative Team**
-- **Game Designer**, responsible for working with team(s) to create
-    the design used for various game(s) within TCDX.
-- **World Designer**, responsible for Minecraft world design.
+- **Game Designer**, responsible for working with team(s) to design
+    game(s) within TCDX including but not limited to: mechanics, logic,
+    objectives, and other various features.
+- **World Designer**, responsible for the design of Minecraft world
+    assets.
 - **Artist**, responsible for the creation and editing of graphical
     assets.
 - **Composer**, responsible for the composition of musical assets.
@@ -97,23 +96,26 @@ A few things to note on how team membership works:
     orchestration and management of third-party relations and affiliations.
 - **Marketing Representative**, responsible for the marketing and advertising of
     TCDX branding and products.
-- **Events Organizer**, responsible for the organization,
+- **Current Events Team Member**, responsible for the organization,
     maintenance, and management of community events both in-game and
-    across our various services.
+    across our various services. These may range in scale but primarily
+    small scale to be embedded between content at times. Some examples
+    of their work would be dynamic event activities, festivals,
+    tournaments, etc.
 - **Customer Service Representative**, general customer service
-    representative.
+    representative. Core support team members.
 
 #### Miscellaneous
 - **Very Important Person**, a person of importance (such as an ex-staff
-member.
+    member.
 - **Premium Member**, someone who has purchases or subscribed for a
-premium membership on our services.
+    premium membership on our services.
 - **Sponsor**, a person or organization who has sponsored the project.
 - **Affiliate**, a person or organization officially partnered with TCDX.
 - **Contributor**, an arbitrary third-party contributor. This is left
-un-specified as there is no *real* limit to the contributions that are
-possible. *NOTE: This is a role, not a team.*
+    un-specified as there is no *real* limit to the contributions that
+    are possible. *NOTE: This is a role, not a team.*
 - **Collaborator**, a contributor from a similar third-party project
-working towards a common goal. *NOTE: A common example would be someone
-who works on a similar project who contributes to this project based off
-their work and experience.*
+    working towards a common goal. *NOTE: A common example would be
+    someone who works on a similar project who contributes to this
+    project based off their work and experience.*

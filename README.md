@@ -1,36 +1,29 @@
-staff-docs
-==========
+# staff-docs
 
-About
------
+## Overview
 Documentation related to the TCDX staff teams, hierarchies, and systems.
 
-Metadata
---------
+### Metadata
 **Namespace:** `net.thecordex`
 
-**Version:** `0.14.0-develop`
+**Version:** `0.14.1-develop`
 
 **Maintainer(s):**
 - Logan Speck (`varrix`/`logan@varrix.io`)
 
-Licensing
----
-MIT - You do you. (See: `~LICENSE`)
+### Licensing
+This software is distributed under the [MIT license](LICENSE.txt).
 
-Versioning
----
+### Versioning
 This project follows the Semantic Versioning (SemVer) Specification v2.0.0. The specification can be found here:
 http://semver.org/spec/v2.0.0.html
 
-Branches
---------
+### Branches
 This repository is powered by `git`. The following branches are available:
 - master (stable)
 - develop (bleeding edge)
 
-Documents
----------
+### Documents
 - [teams-and-roles](teams-and-roles.md), contains information on teams
 and their roles.
 - [staff-members](staff-members.md)
