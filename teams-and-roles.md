@@ -105,12 +105,12 @@ A few things to note on how team membership works:
     tournaments, etc.
 
 #### **Support Team**
-- **Customer Service Representative**, service representative
+- **Service Representative**, service representative
     focused around communications with end-users. Their work involves
     general Q/A, feedback discussion, and helping to inform others on
     how the community and the various services apart of the project may
     be of interest to them.
-- **Customer Support Representative**, support representative focused
+- **Support Representative**, support representative focused
     around directly addressing a broad range of end-user issues via
     email, Discord, web (forum(s)), and Minecraft in-game messages.
 
