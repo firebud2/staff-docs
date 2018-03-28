@@ -115,7 +115,7 @@ A few things to note on how team membership works:
     email, Discord, web (forum(s)), and Minecraft in-game messages.
 
 #### Miscellaneous
-- **Very Important Person**, a person of importance (such as an ex-staff
+- **Very Important Person**, a person of importance such as an ex-staff
     member.
 - **Premium Member**, someone who has purchases or subscribed for a
     premium membership on our services.
