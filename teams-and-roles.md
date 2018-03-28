@@ -12,12 +12,12 @@ A few things to note on how team membership works:
 - **Project-Lead**, highest-ranking person(s) in the project
     responsible for making managerial decisions and leading the primary
     directive(s) of this project.
-- **Creative Director**, responsible for the overall vision of the
-    product, which includes game play, visual style, story, audio assets,
-    cinematics, and marketing materials. The creative director will
-    manage and work with various teams and professionals involved in the
-    project. They will also interact directly with managers/supervisors
-    of each team.
+- **Creative Director**, works along side the Project lead. Responsible
+    for the overall vision of the product, which includes game play,
+    visual style, story, audio assets, cinematics, and marketing
+    materials. The creative director will manage and work with various
+    teams and professionals involved in the project. They will also
+    interact directly with managers/supervisors of each team.
 - **Manager**, managers are responsible for direct management of
     various teams within the organization and their work. *Note:
     Generally senior team members take on this role within their team.*
@@ -93,17 +93,26 @@ A few things to note on how team membership works:
 
 #### **Community Team**
 - **Public Relations Representative**, responsible for the
-    orchestration and management of third-party relations and affiliations.
-- **Marketing Representative**, responsible for the marketing and advertising of
-    TCDX branding and products.
+    orchestration and management of third-party relations and
+    affiliations.
+- **Marketing Representative**, responsible for the marketing and
+    advertising of TCDX branding and products.
 - **Current Events Team Member**, responsible for the organization,
     maintenance, and management of community events both in-game and
     across our various services. These may range in scale but primarily
     small scale to be embedded between content at times. Some examples
     of their work would be dynamic event activities, festivals,
     tournaments, etc.
-- **Customer Service Representative**, general customer service
-    representative. Core support team members.
+
+#### **Support Team**
+- **Customer Service Representative**, service representative
+    focused around communications with end-users. Their work involves
+    general Q/A, feedback discussion, and helping to inform others on
+    how the community and the various services apart of the project may
+    be of interest to them.
+- **Customer Support Representative**, support representative focused
+    around directly addressing a broad range of end-user issues via
+    email, Discord, web (forum(s)), and Minecraft in-game messages.
 
 #### Miscellaneous
 - **Very Important Person**, a person of importance (such as an ex-staff
@@ -111,7 +120,8 @@ A few things to note on how team membership works:
 - **Premium Member**, someone who has purchases or subscribed for a
     premium membership on our services.
 - **Sponsor**, a person or organization who has sponsored the project.
-- **Affiliate**, a person or organization officially partnered with TCDX.
+- **Affiliate**, a person or organization officially partnered with
+    TCDX.
 - **Contributor**, an arbitrary third-party contributor. This is left
     un-specified as there is no *real* limit to the contributions that
     are possible. *NOTE: This is a role, not a team.*
