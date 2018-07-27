@@ -6,7 +6,7 @@ Documentation related to the TCDX staff teams, hierarchies, and systems.
 ### Metadata
 **Namespace:** `net.thecordex`
 
-**Version:** `0.16.1-develop`
+**Version:** `0.17.0-develop`
 
 **Maintainer(s):**
 - Logan Speck (`varrix`/`logan@varrix.io`)

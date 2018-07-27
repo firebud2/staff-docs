@@ -40,12 +40,17 @@ A few things to note on how team membership works:
 
 #### **Moderation Team**
 - **Minecraft Moderator**, responsible for the enforcement of our EULA
-    and various other rules, terms, and conditions within our Minecraft
-    games and services.
+    and various other rules, terms, conditions, and guidelines within 
+    our Minecraft games and services.
 - **Forums Moderator**, responsible for the enforcement of our EULA
-    and various other rules, terms, and conditions within our forums.
+    and various other rules, terms, conditions, and guidelines within 
+    our forums.
 - **Reddit Moderator** responsible for the enforcement of our EULA
-    and various other rules, terms, and conditions within our sub-reddit.
+    and various other rules, terms, conditions, and guidelines within 
+    our sub-reddit.
+- **Discord Moderator** responsible for the enforcement of our EULA
+    and various other rules, terms, conditions, and guidelines within
+    our Discord server.
 
 #### **Development Team**
 - **DevOps Developer**, responsible for the development of tools,
@@ -64,12 +69,14 @@ A few things to note on how team membership works:
     applications.
 
 #### **Documentation Team**
-- **Documentation Editor**, responsible for the editing of our open
+- **Editor**, responsible for the editing of our open
     source documentation.
-- **Documentation Proofreader**, responsible for the proofreading
+- **Proofreader**, responsible for the proofreading
     of our open source documentation.
-- **Documentation Translator**, responsible for the translation of
+- **Translator**, responsible for the translation of
     our open source documentation.
+- **Archivist**, responsible for the maintenance and management of
+    our archives.
 
 #### **Analytics Team**
 - **Data Analyst**, analyzes and reports on our community and content
