@@ -1,4 +1,4 @@
-# teams and roles
+# Teams and Roles
 
 ## Overview
 The following is a list of teams and their roles.
@@ -18,8 +18,8 @@ A few things to note on how team membership works:
     materials. The creative director will manage and work with various
     teams and professionals involved in the project. They will also
     interact directly with managers/supervisors of each team.
-- **Manager**, managers are responsible for direct management of
-    various teams within the organization and their work. *Note:
+- **Manager**, responsible for direct management of their
+    own team within the organization and their work. *Note:
     Generally senior team members take on this role within their team.*
 - **Supervisor**, assistant management role. This role allows an
     individual to take a lesser-management role whilst maintaining their
