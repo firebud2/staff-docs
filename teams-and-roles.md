@@ -97,6 +97,8 @@ A few things to note on how team membership works:
 - **Composer**, responsible for the composition of musical assets.
 - **Writer**, responsible for the creation and management of text
     based assets such as lore and stories.
+- **Narrative Desinger** , focused mostly upon stories that responsible 
+    for tying together the worlds and characters.
 
 #### **Community Team**
 - **Public Relations Representative**, responsible for the
