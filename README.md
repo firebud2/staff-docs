@@ -10,6 +10,7 @@ Documentation related to the TCDX staff teams, hierarchies, and systems.
 
 **Maintainer(s):**
 - Logan Speck (`varrix`/`logan@varrix.io`)
+- Maxwell Chiu ('firebud')
 
 ### Licensing
 This software is distributed under the [MIT license](LICENSE.txt).
